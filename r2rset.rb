@@ -10,17 +10,17 @@
 #
 
 D_HOST='localhost'
-D_DB='elp'
-D_USER='elp'
-D_PASSWORD='elp123'
+D_DB='d'
+D_USER='d'
+D_PASSWORD='d'
 
 #
 # connection data for your redmine database
 #
 
 S_HOST='localhost'
-S_DB='pol'
-S_USER='pol'
-S_PASSWORD='pol123'
+S_DB='s'
+S_USER='s'
+S_PASSWORD='s'
 
 
